@@ -1,0 +1,7 @@
+So passionate to discover the compelling stories hidden behind the data
+It is very interesting and funny to soleve problems and puzzle from bulk data
+```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
